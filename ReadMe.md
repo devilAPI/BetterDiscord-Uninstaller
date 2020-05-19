@@ -13,6 +13,7 @@ Uninstall BandagedDB or BetterDiscordApp.
 
 ### 👉Compatibility
 
+- Windows Vista
 - Windows 7
 - Windows 8
 - Windows 8.1
