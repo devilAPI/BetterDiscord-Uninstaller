@@ -19,5 +19,7 @@ Uninstall BandagedDB or BetterDiscordApp.
 - Windows 10
 
 **LINUX IS NOT SUPPORTED DUE TO A .EXE OR .BAT FILE FORMAT**
+
 **MACOSX IS NOT SUPPORTED DUE TO A .EXE OR .BAT FILE FORMAT**
+
 I'm maybe going to write a MAC uninstaller.
