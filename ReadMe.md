@@ -1,11 +1,11 @@
 # BetterDiscord Uninstaller 🟣🗑️
 Uninstall BandagedDB or BetterDiscordApp.
 
-### ➕Extra Features➕
+### ➕Features➕
 
 - Backuping
 - Folder checking
-- written in batch, so it dosent need that much cpu, ram etc.
+- Consumes almost no resources
 
 ### ⛔How do I know it dosent install malware or unwanted Programs?
 🐱 👓
@@ -18,8 +18,6 @@ Uninstall BandagedDB or BetterDiscordApp.
 - Windows 8.1
 - Windows 10
 
-**⚠LINUX IS NOT SUPPORTED DUE TO A .EXE OR .BAT FILE FORMAT⚠**
+**⚠LINUX IS NOT SUPPORTED⚠**
 
-**⚠MACOSX IS NOT SUPPORTED DUE TO A .EXE OR .BAT FILE FORMAT⚠**
-
-I'm maybe going to write a MAC uninstaller.
+**⚠MACOSX IS NOT SUPPORTED⚠**
