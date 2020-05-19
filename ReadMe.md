@@ -8,6 +8,7 @@ Uninstall BandagedDB or BetterDiscordApp.
 - written in batch, so it dosent need that much cpu, ram etc.
 
 ### ⛔How do I know it dosent install malware or unwanted Programs?
+🐱‍👓
 - The complete Program is open source, so you can look in the code. ✅
 
 ### 👉Compatibility
