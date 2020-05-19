@@ -1,6 +1,8 @@
 @ECHO off
+title BetterDiscord Uninstaller by devilAPI
 :reallydelete
-set /P c=Thanks for downloading my uninstaller! Do you really want to uninstall BetterDiscord/BandagedDB [Y/N]? 
+echo BANDAGEDDB IS NOT SUPPORTED!
+set /P c=Thanks for downloading my uninstaller! Do you really want to uninstall BetterDiscord [Y/N]? 
 echo.
 if /I "%c%" EQU "Y" goto :remove
 if /I "%c%" EQU "N" goto :eof
