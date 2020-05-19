@@ -7,9 +7,8 @@ Uninstall BandagedDB or BetterDiscordApp.
 - Folder checking
 - written in batch, so it dosent need that much cpu, ram etc.
 
-## Open Source
-
-- The complete Program is open source.
+## How do I know it dosent install malware or unwanted Programs?
+- The complete Program is open source, so you can look in the code.
 - There is a compiled and a uncompiled Version of it, so you can see exactly what it does
 
 ## Compatibility
